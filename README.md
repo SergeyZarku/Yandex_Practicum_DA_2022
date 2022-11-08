@@ -4,6 +4,8 @@
 
 [Мои дашборды (Tableau)](https://public.tableau.com/app/profile/sergey3201)  
 
+[Дашборд (MS Excel)](https://disk.yandex.ru/i/wo7xhJxcsrYV0A)
+
 ## Как выглядит программа:
 ![Аналитик данных — программа](/certificate/2.png)
 
